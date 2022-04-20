@@ -1,0 +1,5 @@
+C:\Users\kinsmanma\Documents\GitHub\CurrencyConverter\CurrencyConverter\bin\Release\net6.0\publish\CurrencyConverter.exe
+C:\Users\kinsmanma\Documents\GitHub\CurrencyConverter\CurrencyConverter\bin\Release\net6.0\publish\CurrencyConverter.dll
+C:\Users\kinsmanma\Documents\GitHub\CurrencyConverter\CurrencyConverter\bin\Release\net6.0\publish\CurrencyConverter.deps.json
+C:\Users\kinsmanma\Documents\GitHub\CurrencyConverter\CurrencyConverter\bin\Release\net6.0\publish\CurrencyConverter.runtimeconfig.json
+C:\Users\kinsmanma\Documents\GitHub\CurrencyConverter\CurrencyConverter\bin\Release\net6.0\publish\CurrencyConverter.pdb
